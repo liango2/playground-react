@@ -1,0 +1,43 @@
+* {
+    font-family: Ubuntu;
+    box-sizing: border-box;
+}
+
+body {
+    background: #ccc;
+    color: #333;
+    font-size: 18px;
+}
+
+.comment {
+    padding: 12px;
+}
+
+.comment .author,
+.comment .text,
+.commentForm,
+.commentList {
+    vertical-align: top;
+}
+
+.comment .author {
+    margin-right: 12px;
+    color: #666;
+    font-size: 12px;
+}
+
+.commentForm {
+    padding: 12px;
+}
+
+.commentForm .field,
+.commentForm .button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+}
+
+.commentBox {
+    display: inline-block;
+    width: 600px;
+}
