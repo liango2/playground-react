@@ -2,5 +2,7 @@
 
 trying stuff with react
 
-- comments example
--
+### examples
+
+- comments example - from the react tutorial
+- pnid example - can we render engg diagrams with react & art?
